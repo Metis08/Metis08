@@ -41,7 +41,9 @@ Backend and API-focused project designed around clean architecture, reliability,
 A secure medical record and emergency access platform focused on accessibility, organization, and usability.  
 🔗 https://vault-aid-emergency-access.vercel.app/
 
-### 🌐 Connect
+---
+
+## 🌐 Connect
 
 <p align="center">
   <a href="https://github.com/Metis08">
@@ -53,11 +55,13 @@ A secure medical record and emergency access platform focused on accessibility, 
   </a>
 
   <a href="https://editorial-hero-mvea.vercel.app/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=1&pause=100000&color=F778BA&center=true&vCenter=true&width=120&lines=Editorial" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=1&pause=100000&color=C9D1D9&center=true&vCenter=true&width=120&lines=Portfolio" />
   </a>
 </p>
 
-### 📊 GitHub Overview
+---
+
+## 📊 GitHub Overview
 
 ```txt
 Languages     → C • C++ • JavaScript • Python
@@ -67,7 +71,7 @@ Focus         → Full Stack Development
 Building      → Practical and scalable applications
 ```
 
-### Current Focus
+## Current Focus
 
 - Building complete full stack systems
 - Improving backend architecture
